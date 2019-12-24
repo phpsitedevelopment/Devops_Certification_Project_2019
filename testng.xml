@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="WebDriver">
+  <test name="Maven WebSite Test">
+    <classes>
+      <class name="devops_cert_project.devops_phpwebsite_project_2019.Websitecheck"/>
+    </classes>
+    
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
